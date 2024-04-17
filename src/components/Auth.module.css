@@ -27,4 +27,11 @@
     padding: 0.25rem;
     border: 1px solid #ccc;
   }
+  .btn{
+    background-color: blueviolet;
+    border-radius: 7px;
+    height: 2rem;
+    width: 5rem;
+    color:white;
+  }
   
